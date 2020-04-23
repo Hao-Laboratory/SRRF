@@ -57,3 +57,7 @@ if GUI fails to start, a simple CLI version for debug will start instead.
     
     # show result
     srrf.plot_result(img_array, ret_img_array)
+
+
+Reference:
+[1] Han, Y., Lu, X., Zhang, Z., Liu, W., Chen, Y., Liu, X., Hao, X., and Kuang, C. (2019). Ultra-fast, universal super-resolution radial fluctuations (SRRF) algorithm for live-cell super-resolution microscopy. Opt Express 27, 38337-38348.
