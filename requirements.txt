@@ -1,0 +1,8 @@
+cupy-cuda100>=6.*
+numpy>=1.15.4
+Pillow>=4.2.1
+PyQt5>=5.12.2
+PyQt5-sip>=4.19.17
+pyqtgraph>=0.10.0
+matplotlib>=3.1.0
+scipy>=1.2.1
